@@ -1,0 +1,16 @@
+measure,value
+rows,17379
+original_columns,17
+start_timestamp,2011-01-01 00:00:00
+end_timestamp,2012-12-31 23:00:00
+total_missing_values,0
+exact_duplicate_rows,0
+duplicate_timestamps,0
+missing_hourly_timestamps,165
+target_identity_holds,True
+cnt_mean,189.46308763450142
+cnt_median,142.0
+cnt_min,1
+cnt_max,977
+cnt_skewness,1.2774116037490577
+temp_atemp_correlation,0.9876721390396437

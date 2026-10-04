@@ -1,0 +1,18 @@
+.venv/
+.venv-*/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# The UCI source URL is documented in README.md.
+data/*.csv
+
+# Keep drafts and originality reports local.
+report/*.docx
+report/*.pdf
+
+# PNGs are committed as report evidence; scripts can regenerate editable SVG copies.
+figures/*.svg
+
+.DS_Store
+Thumbs.db
